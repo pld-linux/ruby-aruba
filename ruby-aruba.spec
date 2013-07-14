@@ -4,7 +4,7 @@
 
 %define	pkgname	aruba
 Summary:	CLI Steps for Cucumber, hand-crafted for you in Aruba
-Name:		rubygem-%{pkgname}
+Name:		ruby-%{pkgname}
 Version:	0.5.2
 Release:	1
 Group:		Development/Languages
